@@ -1,0 +1,27 @@
+@media(max-width:768px){
+    
+    .nav-bar{
+        display: none;
+    }
+    .img-logo{
+        width: 50%;
+    }
+    .input{
+        width: 50%;
+    }
+    .main-header{
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .copy-header-m{
+        justify-content: center;
+        text-align: center;
+    }
+    .publi{
+        margin-top: 180px;
+    
+    }
+    footer div{
+        margin: 20px 0;
+    }
+    }
